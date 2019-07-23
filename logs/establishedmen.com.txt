@@ -1,0 +1,14 @@
+www.establishedmen.com
+asset0-cdn.establishedmen.com
+asset1-cdn.establishedmen.com
+asset2-cdn.establishedmen.com
+asset3-cdn.establishedmen.com
+assets0-cdn.establishedmen.com
+assets1-cdn.establishedmen.com
+assets2-cdn.establishedmen.com
+assets3-cdn.establishedmen.com
+blog.establishedmen.com
+jp.establishedmen.com
+mail1.establishedmen.com
+mail2.establishedmen.com
+support.establishedmen.com
